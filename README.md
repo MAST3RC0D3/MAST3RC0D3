@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning data structures :/
 - 💬 Ask me about Overwatch :3
 - ⚡ Fun fact: I love eSports and video games
+- ❤️ I also LOVEEEE linux operating systems
 
 - I have knowledge in several coding languages, including
 
