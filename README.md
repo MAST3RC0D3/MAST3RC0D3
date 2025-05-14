@@ -17,6 +17,8 @@
 ##Previous Projects
 
 - Created a lore website for my friends
+- Mother's day card website
+- Spicetify mod update script
 - BSU CS221 Projects
 - BSU CS208 Projects
 - BSU CS121 Projects
