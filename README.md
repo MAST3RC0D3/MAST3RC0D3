@@ -8,9 +8,11 @@
 
 ##Current Projects
 
-- Creating the ultimate USB combining Ventoy, PortableApps, etc.
+- Creating the ultimate USB combining Ventoy(With persistance for any linux distro and password protection on boot), PortableApps(Crossplatform portable app manager on windows/mac/linux), etc.
+  ^^^Currently working on ways to encrypt the drive(potentially using VeraCrypt)^^^
 - Working on a Circular Array data structure project
-- Working on researching open source projects to contribute to
+- Working on researching open source projects to contribute on
+- Working on my portfolio website (Currently getting artwork and logo commission for this as well)
 
 ##Previous Projects
 
